@@ -1,0 +1,2 @@
+# popup-webpage
+ The Popup Webpage plugin enables WordPress users to create a customizable button that opens a webpage in a popup window. This functionality is perfect for displaying additional content, forms, or information without requiring users to navigate away from the current page. The plugin also allows you to manage popup settings via a custom post type and generate shortcodes for easy integration into your posts and pages.

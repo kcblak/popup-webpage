@@ -1,0 +1,11 @@
+.popup-webpage-button {
+    background-color: #FE6187;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+.popup-webpage-button:hover {
+    background-color: #00BF62;
+}
